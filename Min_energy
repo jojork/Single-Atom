@@ -1,5 +1,4 @@
-
-Here's the script of finding the minimum energy of a element
+#Here's the script of finding the minimum energy of a element
 from ase import Atoms
 import numpy as np
 import matplotlib.pyplot as plt
